@@ -1,3 +1,6 @@
 # GithubDemo
 Learning how to use github for teams
-Adding a new line to the file
+Add new line to readme
+
+This wasn't here before!
+I have made many changes to this file!
